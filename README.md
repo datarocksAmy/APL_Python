@@ -1,5 +1,5 @@
 # APL_Python
-Python Programming for Engineers and Scienctists
+Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ## In Class Exercise
 ### > ICE #01 - Reverse Number + Area & Circumference Calcuation
