@@ -1,5 +1,10 @@
-''' Take radius of a circle as input from user.
-    Calculate area, circumference and print the output. '''
+'''
+  * Python Programming for Data Scientists and Engineers
+  * ICE #1-2-b
+  * Take radius of a circle as input from user.
+  * Calculate area, circumference and print the output.
+  * #11 Chia-Hui Amy Lin
+'''
 
 # Libraries import
 import math
