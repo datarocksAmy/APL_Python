@@ -21,7 +21,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#1-a Odd or Even Number ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01a_OddOrEvenNum.py">Lab #1-a Source</a>
 
->#1-b Rectangle Pariter ---
+>#1-b Rectangle Parimeter ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01b_Rectangle.py">Lab #1-b Source</a>
 
 >#1-c Number Guess Game ---
