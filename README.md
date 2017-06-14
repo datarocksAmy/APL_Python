@@ -25,6 +25,6 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01b_Rectangle.py">Lab #1-b Source</a>
 
 >#1-c Number Guess Game ---
-> <a https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01c_NumberGuess.py"> Lab #1-c Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01c_NumberGuess.py"> Lab #1-c Source</a>
 
 
