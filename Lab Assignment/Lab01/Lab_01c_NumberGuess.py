@@ -39,7 +39,12 @@ while count >= 0:
     else:
         # Wrong answer : Prompt player for another try until the chances ran out
         if count != 0:
-            print("You guess the wrong number. Take another guess!" + "\n")
+            print("You guess the wrong number. Take another guess!")
+            # Hints of whether the number is smaller or bigger
+            if int(player_guess) > randomNum:
+                print("| HINT : Guess a bigger number. |" + "\n")
+            else:
+                print("| HINT : Guess a smaller number. |" + "\n")
             print("[Chances Left -> ", count, "]")  # Display the number of attempts left
         else:
             # End of the game statement
