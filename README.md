@@ -28,5 +28,5 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01c_NumberGuess.py"> Lab #1-c Source</a>
 
 >#1 Results ---
-> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Lab-%2301"> Lab #1 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Documentation</a>
 
