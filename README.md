@@ -12,9 +12,9 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#1-2-b Calcuate Area & Circumference of a circle ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE01/ICE1_circle.py"> ICE #1-2-b Source</a>
 
-### > ICE #02 - Rental Car Case
-> #2 String Manipulation --- 
-> <a href=""> ICE #2 Source</a>
+### > ICE #02 - String Manipulation
+> #2 Frequencies, Max word length, Characters/Digits Count --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE02/ICE2.py"> ICE #2 Source</a>
 
 
 <hr>
@@ -35,3 +35,4 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Documentation</a>
 
 ### > Lab #02
+
