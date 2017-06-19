@@ -35,4 +35,14 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Documentation</a>
 
 ### > Lab #02
+>#2-1 Print out first letter of the name in astericks ---
+> <a href="">Lab #2-1 Source</a>
 
+>#2-2 Check if a string contains all alphabets ---
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab02/Lab_02_Task02.py">Lab #2-2 Source</a>
+
+>#2-3 Find numbers between 1500 & 2700 that are divisible by 7 + multiple of 5 ---
+> <a href=""> Lab #2-3 Source</a>
+
+>#2 Results ---
+> <a href=""> Lab #2 Documentation</a>
