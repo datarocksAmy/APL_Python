@@ -31,8 +31,11 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#1-c Number Guess Game ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01c_NumberGuess.py"> Lab #1-c Source</a>
 
+>#2 Lab Report ---
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Wiki</a>
+
 >#1 Results ---
-> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab01/Results"> Lab #1 Screenshots</a>
 
 ### > Lab #02
 >#2-1 Print out first letter of the name in astericks ---
@@ -44,5 +47,8 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#2-3 Find numbers between 1500 & 2700 that are divisible by 7 + multiple of 5 ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab02/Lab_02_Task03.py"> Lab #2-3 Source</a>
 
+>#2 Lab Report ---
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2302"> Lab #2 Wiki</a>
+
 >#2 Results ---
-> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab02/Results"> Lab #2 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab02/Results"> Lab #2 Screenshots</a>
