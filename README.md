@@ -36,7 +36,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > Lab #02
 >#2-1 Print out first letter of the name in astericks ---
-> <a href="">Lab #2-1 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab02/Lab_02_Task01.py">Lab #2-1 Source</a>
 
 >#2-2 Check if a string contains all alphabets ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab02/Lab_02_Task02.py">Lab #2-2 Source</a>
@@ -45,4 +45,4 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab02/Lab_02_Task03.py"> Lab #2-3 Source</a>
 
 >#2 Results ---
-> <a href=""> Lab #2 Documentation</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab02/Results"> Lab #2 Documentation</a>
