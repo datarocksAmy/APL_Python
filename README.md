@@ -21,7 +21,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="">ICE #2-1 Source</a>
 
 >#3-2 Make New List --- 
-> <a href="">ICE #2-2 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE03/ICE3-2%20New%20List.py">ICE #2-2 Source</a>
 
 <hr>
 
