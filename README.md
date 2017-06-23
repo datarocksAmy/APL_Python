@@ -17,10 +17,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE02/ICE2.py"> ICE #2 Source</a>
 
 ### > ICE #03 - Game Board + Make a New List of selected elements
->#2-1 Game Board --- 
+>#3-1 Game Board --- 
 > <a href="">ICE #2-1 Source</a>
 
->#2-2 Make New List --- 
+>#3-2 Make New List --- 
 > <a href="">ICE #2-2 Source</a>
 
 <hr>
