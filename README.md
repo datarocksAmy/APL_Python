@@ -18,10 +18,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > ICE #03 - Game Board + Make a New List of selected elements
 >#3-1 Game Board --- 
-> <a href="">ICE #2-1 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE03/ICE3-1%20Game%20Board.py">ICE #3-1 Source</a>
 
 >#3-2 Make New List --- 
-> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE03/ICE3-2%20New%20List.py">ICE #2-2 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE03/ICE3-2%20New%20List.py">ICE #3-2 Source</a>
 
 <hr>
 
