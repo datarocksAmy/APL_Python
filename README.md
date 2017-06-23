@@ -37,7 +37,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#1-c Number Guess Game ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab01/Lab_01c_NumberGuess.py"> Lab #1-c Source</a>
 
->#2 Lab Report ---
+>#1 Lab Report ---
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2301"> Lab #1 Wiki</a>
 
 >#1 Results ---
@@ -58,3 +58,19 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 >#2 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab02/Results"> Lab #2 Screenshots</a>
+
+### > Lab #03
+>#3-1 Convert string to characters in list and tuples ---
+> <a href="">Lab #3-1 Source</a>
+
+>#3-2 Sorted Tuples ---
+> <a href="">Lab #3-2 Source</a>
+
+>#3-3 Tic Tac Toe Game ---
+> <a href=""> Lab #3-3 Source</a>
+
+>#3 Lab Report ---
+> <a href=""> Lab #3 Wiki</a>
+
+>#3 Results ---
+> <a href=""> Lab #3 Screenshots</a>
