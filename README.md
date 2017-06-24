@@ -61,10 +61,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > Lab #03
 >#3-1 Convert string to characters in list and tuples ---
-> <a href="">Lab #3-1 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab03/Lab03_1%20Convert%20into%20characters.py">Lab #3-1 Source</a>
 
 >#3-2 Sorted Tuples ---
-> <a href="">Lab #3-2 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab03/Lab03_2%20Ascending%20Tuple.py">Lab #3-2 Source</a>
 
 >#3-3 Tic Tac Toe Game ---
 > <a href=""> Lab #3-3 Source</a>
