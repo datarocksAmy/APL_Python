@@ -184,10 +184,10 @@ def main():
                 check_full = board_full(update_board)
                 # Call function referee to see if the player wins on his/her move or not.
                 # If yes, game over!
-                winOrNot = referee(update_board)
+                winOrNotTwo = referee(update_board)
 
                 # Announce the Winner
-                if winOrNot == "Player Two":
+                if winOrNotTwo == "Player Two":
                     print("\n")
                     print("****************** WE GOT A WINNER! Player Two won! ******************", "\n")
                     print("............................ End of Game!!! ...........................")
@@ -198,7 +198,6 @@ def main():
                     break
                 break
             else:
-                print("prompt again")
                 player_two_prompt = True
 
 # __________________________________________ MAIN __________________________________________________
