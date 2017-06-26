@@ -67,7 +67,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab03/Lab03_2%20Ascending%20Tuple.py">Lab #3-2 Source</a>
 
 >#3-3 Tic Tac Toe Game ---
-> <a href=""> Lab #3-3 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab03/Lab03_3%20Tic%20Tac%20Toe%20Game.py"> Lab #3-3 Source</a>
 
 >#3 Lab Report ---
 > <a href=""> Lab #3 Wiki</a>
