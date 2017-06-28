@@ -70,7 +70,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab03/Lab03_3%20Tic%20Tac%20Toe%20Game.py"> Lab #3-3 Source</a>
 
 >#3 Lab Report ---
-> <a href=""> Lab #3 Wiki</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2303"> Lab #3 Wiki</a>
 
 >#3 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab03/Results"> Lab #3 Screenshots</a>
