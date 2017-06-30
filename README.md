@@ -25,7 +25,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > ICE #04 - Parse + Extract info from a wikipage
 >#4 BeautifulSoup and Requests Library --- 
-> <a href="">ICE #4 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE04/ICE04%20Wikipage.py">ICE #4 Source</a>
 
 <hr>
 
