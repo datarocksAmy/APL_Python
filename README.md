@@ -23,6 +23,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#3-2 Make New List --- 
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE03/ICE3-2%20New%20List.py">ICE #3-2 Source</a>
 
+### > ICE #04 - Parse + Extract info from a wikipage
+>#4 BeautifulSoup and Requests Library --- 
+> <a href="">ICE #4 Source</a>
+
 <hr>
 
 
