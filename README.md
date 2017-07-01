@@ -87,7 +87,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_2_Condition%26Loops.py">Lab #4-2 Source</a>
 
 >#4 Lab Report ---
-> <a href=""> Lab #4 Wiki</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2304"> Lab #4 Wiki</a>
 
 >#3 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #4 Screenshots</a>
