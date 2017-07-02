@@ -87,7 +87,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_b_MashDictionaries.py">Lab #4-b Source</a>
 
 >#4-c Comma Seperate Sequence ---
-> <a href="">Lab #4-c Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_c_CommaSeparatedSEQ.py">Lab #4-c Source</a>
 
 >#4-d Symmeric Difference---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_d_SymmetricDifference.py">Lab #4-d Source</a>
