@@ -80,14 +80,20 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab03/Results"> Lab #3 Screenshots</a>
 
 ### > Lab #04
->#4-1 Dictionary Operations ---
-> <a href="">Lab #4-1 Source</a>
+>#4-a Ordered Dictionary ---
+> <a href="">Lab #4-a Source</a>
 
->#4-2 Conditional Statement + Loops ---
-> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_2_Condition%26Loops.py">Lab #4-2 Source</a>
+>#4-b Mash Dictionary Key with integer Values ---
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_b_MashDictionaries.py">Lab #4-b Source</a>
+
+>#4-c Comma Seperate Sequence ---
+> <a href="">Lab #4-c Source</a>
+
+>#4-d Symmeric Difference---
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_d_SymmetricDifference.py">Lab #4-d Source</a>
 
 >#4 Lab Report ---
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2304"> Lab #4 Wiki</a>
 
->#3 Results ---
+>#4 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #4 Screenshots</a>
