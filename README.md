@@ -81,7 +81,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > Lab #04
 >#4-a Ordered Dictionary ---
-> <a href="">Lab #4-a Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_a_OrderedDict.py">Lab #4-a Source</a>
 
 >#4-b Mash Dictionary Key with integer Values ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab04/Lab04_b_MashDictionaries.py">Lab #4-b Source</a>
