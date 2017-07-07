@@ -8,7 +8,7 @@
 import numpy as np
 
 # Assign random values to a 10 x 10 Numpy Array
-randArray = np.random.rand(10, 10)
+randArray = np.random.randint(100, size=(10, 10))
 
 # Output the Numpy Array
 print("<< 10 x 10 Numpy Array with Random Values >> ")
