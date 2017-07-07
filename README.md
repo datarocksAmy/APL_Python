@@ -32,7 +32,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="">ICE #5-1 Source</a>
 
 >#5-2 Numpy Array with Random Values --- 
-> <a href="">ICE #5-2 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE05/ICE05-2%20Numpy%20Array.py">ICE #5-2 Source</a>
 
 <hr>
 
