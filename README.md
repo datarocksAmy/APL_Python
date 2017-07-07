@@ -27,6 +27,13 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#4 BeautifulSoup and Requests Library --- 
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE04/ICE04%20Wikipage.py">ICE #4 Source</a>
 
+### > ICE #05 - Class + Numpy Array
+>#5-1 Class OOP + Inheritence --- 
+> <a href="">ICE #5-1 Source</a>
+
+>#5-2 Numpy Array with Random Values --- 
+> <a href="">ICE #5-2 Source</a>
+
 <hr>
 
 
@@ -97,3 +104,5 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 >#4 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #4 Screenshots</a>
+
+### > Lab #05
