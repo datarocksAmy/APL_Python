@@ -112,7 +112,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#5-2 Tic Tac Toe using Encapsulation ---
 > <a href="">Lab #5-2 Source</a>
 
->#5-3 Gmae Of Life ---
+>#5-3 Game Of Life ---
 > <a href="">Lab #5-3 Source</a>
 
 >#5 Lab Report ---
