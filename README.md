@@ -106,3 +106,17 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #4 Screenshots</a>
 
 ### > Lab #05
+>#5-1 Management System ---
+> <a href="">Lab #5-1 Source</a>
+
+>#5-2 Tic Tac Toe using Encapsulation ---
+> <a href="">Lab #5-2 Source</a>
+
+>#5-3 Gmae Of Life ---
+> <a href="">Lab #5-3 Source</a>
+
+>#5 Lab Report ---
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2304"> Lab #5 Wiki</a>
+
+>#5 Results ---
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #5 Screenshots</a>
