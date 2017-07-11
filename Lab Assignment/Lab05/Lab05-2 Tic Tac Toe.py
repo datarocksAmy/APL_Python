@@ -18,6 +18,7 @@ class TicTacToeGame(object):
         self.markOne = TicTacToeGame.player_one_mark
         self.markTwo = TicTacToeGame.player_two_mark
 
+    # ------------------------------------------------------------------------------------------------------------
     def draw_board(self):
         ''' Draw the game board when player makes a move each time. '''
         for row in range(len(self.cboard)):
