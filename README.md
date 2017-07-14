@@ -37,7 +37,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > ICE #06 - Linear Regression
 >#6 Linear Regression using numpy + matplotlib--- 
-> <a href="">ICE #6 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE06/ICE06%20-%20Linear%20Regression.py">ICE #6 Source</a>
 <hr>
 
 
