@@ -113,7 +113,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab05/Lab05-2%20Tic%20Tac%20Toe.py">Lab #5-2 Source</a>
 
 >#5-3 Game Of Life ---
-> <a href="">Lab #5-3 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab05/Lab05-3%20Game%20of%20Life.py">Lab #5-3 Source</a>
 
 >#5 Lab Report ---
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2305"> Lab #5 Wiki</a>
