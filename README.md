@@ -34,6 +34,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#5-2 Numpy Array with Random Values --- 
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE05/ICE05-2%20Numpy%20Array.py">ICE #5-2 Source</a>
 
+
+### > ICE #06 - Linear Regression
+>#6 Linear Regression using numpy + matplotlib--- 
+> <a href="">ICE #6 Source</a>
 <hr>
 
 
