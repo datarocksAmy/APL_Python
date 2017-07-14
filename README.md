@@ -107,7 +107,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 ### > Lab #05
 >#5-1 Management System ---
-> <a href="">Lab #5-1 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab05/Lab05-1%20Management%20System.py">Lab #5-1 Source</a>
 
 >#5-2 Tic Tac Toe using Encapsulation ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab05/Lab05-2%20Tic%20Tac%20Toe.py">Lab #5-2 Source</a>
