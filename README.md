@@ -116,7 +116,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="">Lab #5-3 Source</a>
 
 >#5 Lab Report ---
-> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2304"> Lab #5 Wiki</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2305"> Lab #5 Wiki</a>
 
 >#5 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab04/Results"> Lab #5 Screenshots</a>
