@@ -124,3 +124,15 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 >#5 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab05/Results"> Lab #5 Screenshots</a>
+
+### > Lab #06
+>#6-1  ---
+> <a href="">Lab #6-1 Source</a>
+
+
+>#6 Lab Report ---
+> <a href=""> Lab #6 Wiki</a>
+
+>#6 Results ---
+> <a href=""> Lab #6 Screenshots</a>
+
