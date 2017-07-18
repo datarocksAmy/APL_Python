@@ -126,8 +126,11 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab05/Results"> Lab #5 Screenshots</a>
 
 ### > Lab #06
->#6-1  ---
-> <a href="">Lab #6-1 Source</a>
+>#6-1-1 Linear Regression Using Tensorflow ---
+> <a href="">Lab #6-1-1 Source</a>
+
+>#6-1-2 K-Mean Clustering ---
+> <a href="">Lab #6-1-2 Source</a>
 
 
 >#6 Lab Report ---
