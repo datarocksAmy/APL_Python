@@ -139,5 +139,5 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2306"> Lab #6 Wiki</a>
 
 >#6 Results ---
-> <a href=""> Lab #6 Screenshots</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab06/Results"> Lab #6 Screenshots</a>
 
