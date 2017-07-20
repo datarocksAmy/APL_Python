@@ -130,7 +130,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="">Lab #6-1-1 Source</a>
 
 >#6-1-2 K-Mean Clustering ---
-> <a href="">Lab #6-1-2 Source</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab06/Lab06-2%20T-Shirt%20K-Mean%20Clustering.py">Lab #6-1-2 Source</a>
 
 
 >#6 Lab Report ---
