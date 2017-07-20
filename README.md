@@ -129,7 +129,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#6-1-1 Linear Regression Using Tensorflow ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab06/Tensorflow%20Linear%20Regression/Lab06-1%20Linear%20Regression%20Tensorflow.py">Lab #6-1-1 Source</a>
 
-> <a href="https://archive.ics.uci.edu/ml/datasets/Forest+Fires">Lab #6-1-1 Dataset: Forest File from UCI Machine Learning Repository</a>
+> <a href="https://archive.ics.uci.edu/ml/datasets/Forest+Fires">Dataset: Forest File from UCI Machine Learning Repository</a>
 
 >#6-1-2 K-Mean Clustering ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab06/Lab06-2%20T-Shirt%20K-Mean%20Clustering.py">Lab #6-1-2 Source</a>
