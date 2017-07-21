@@ -41,8 +41,27 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 <hr>
 
 ### > ICE #07 - Library NLTK in Python
->#6 Functions of NLTK --- 
-> <a href="">ICE #7 Source</a>
+>#7-1 WordNet --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-1%20WordNet.py">ICE #7-1 Source</a>
+
+>#7-2 Tokenization --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-2%20Tokenization.py">ICE #7-2 Source</a>
+
+>#7-3 Stemming --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-3%20Stemming.py">ICE #7-3 Source</a>
+
+>#7-4 POS --- 
+> <a href="hhttps://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-4%20POS.py">ICE #7-4 Source</a>
+
+>#7-5 Lemmatization --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-5%20Lemmatization.py">ICE #7-5 Source</a>
+
+>#7-6 Trigram --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-6%20Trigram.py">ICE #7-6 Source</a>
+
+>#7-7 Named Entity Recognition --- 
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE07/ICE07-7%20Named%20Entity%20Recognition.py">ICE #7-7 Source</a>
+
 <hr>
 
 ## Lab Assignment
