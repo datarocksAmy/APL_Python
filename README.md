@@ -40,6 +40,10 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/ICE/ICE06/ICE06%20-%20Linear%20Regression.py">ICE #6 Source</a>
 <hr>
 
+### > ICE #07 - Library NLTK in Python
+>#6 Functions of NLTK --- 
+> <a href="">ICE #7 Source</a>
+<hr>
 
 ## Lab Assignment
 ### > Lab #01
