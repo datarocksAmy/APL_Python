@@ -167,7 +167,7 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 >#7 Summarize an article using NLTK ---
 > <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab06/Tensorflow%20Linear%20Regression/Lab06-1%20Linear%20Regression%20Tensorflow.py">Lab #7 Source</a>
 
-> <a href="https://www.1843magazine.com/features/the-man-trap"> -- File Source : The Man Trap from The Economist 1843 </a>
+> -- File Source : <a href="https://www.1843magazine.com/features/the-man-trap"> The Man Trap from The Economist 1843 </a>
 
 >#7 Lab Report ---
 > <a href=""> Lab #7 Wiki</a>
