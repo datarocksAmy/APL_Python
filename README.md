@@ -169,8 +169,9 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 > -- File Source : <a href="https://www.1843magazine.com/features/the-man-trap"> The Man Trap from The Economist 1843 </a>
 
->#7 Lab Report ---
-> <a href=""> Lab #7 Wiki</a>
+>#7 Lab Report ( with Tableau Visualization ) ---
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2307"> Lab #7 Wiki</a>
+> <a href="https://public.tableau.com/profile/amy.lin4783#!/vizhome/Python/WordFrequency"> Word Frequency Result Visualization </a>
 
 >#7 Results ---
-> <a href=""> Lab #7 Screenshots</a>
+> <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab07/Results"> Lab #7 Screenshot + Word frequencies + Sentences with top 5 words</a>
