@@ -176,3 +176,15 @@ Applied Programming Language - Python Programming for Engineers and Scienctists
 
 >#7 Results ---
 > <a href="https://github.com/datarocksAmy/APL_Python/tree/master/Lab%20Assignment/Lab07/Results"> Lab #7 Screenshot + Full list of Words & frequencies + Sentences with top 5 words</a>
+
+### > Lab #08
+>#7 Baby Name Generator using Markov Chain ---
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab08/BabyName.py">Lab #8 Source</a>
+
+> -- Data Source : <a href="https://www.ssa.gov/oact/babynames/limits.html"> Social Security National Popular Baby Name</a>
+
+>#8 Lab Report ---
+> <a href="https://github.com/datarocksAmy/APL_Python/wiki/Py-DS_Engineer-Lab-Report-%2308"> Lab #8 Wiki</a>
+
+>#8 Results ---
+> <a href="https://github.com/datarocksAmy/APL_Python/blob/master/Lab%20Assignment/Lab08/Results/BabyBoyName.png"> Lab #8 Screenshot</a>
